@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lorena!
-👩🏽‍💻 Currently studying DAM at [Cev](https://www.cev.com/tecnico-superior-en-desarrollo-de-aplicaciones-multiplataforma/) in Madrid<br/>
+👩🏽‍💻 Studied DAM at [Cev](https://www.cev.com/tecnico-superior-en-desarrollo-de-aplicaciones-multiplataforma/) in Madrid<br/>
 🎨 Making videos about my day to day on Tiktok<br/>
 💭 Currently learning Swift and Python!<br/>
 
